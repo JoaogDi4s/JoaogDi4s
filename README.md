@@ -41,7 +41,7 @@ I enjoy exploring new technologies, building projects, and learning about softwa
 ## Redes sociais
 
 <p>
-  <img src="https://img.shields.io/static/v1?message=Instagram&amp;logo=instagram&amp;label=&amp;color=E4405F&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" alt="Instagram">
-  <img src="https://img.shields.io/static/v1?message=Discord&amp;logo=discord&amp;label=&amp;color=7289DA&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" alt="Discord">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" alt="LinkedIn">
+  <a href="https://www.instagram.com/joaog.dias."><img src="https://img.shields.io/static/v1?message=Instagram&amp;logo=instagram&amp;label=&amp;color=E4405F&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" alt="Instagram"></a>
+  <a href="https://discord.com/users/392756070914981889"><img src="https://img.shields.io/static/v1?message=joaouilherme&amp;logo=discord&amp;label=&amp;color=7289DA&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" alt="Discord: joaouilherme"></a>
+  <a href="https://www.linkedin.com/in/joao-guilherme-dias/"><img src="https://img.shields.io/static/v1?message=LinkedIn&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" alt="LinkedIn"></a>
 </p>
