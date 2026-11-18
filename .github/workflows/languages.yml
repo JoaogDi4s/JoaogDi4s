@@ -18,21 +18,13 @@ jobs:
 
     steps:
       - name: Generate languages.svg
-        id: languages
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&custom_title=Linguagens
           path: dist/languages.svg
           token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
-
-      - name: Display generation diagnostics
-        if: always()
-        run: |
-          echo "Error type: ${{ steps.languages.outputs.error_type }}"
-          echo "Error message: ${{ steps.languages.outputs.error_message }}"
-          echo "Additional information: ${{ steps.languages.outputs.error_secondary_message }}"
 
       - name: Publish languages.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
