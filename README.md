@@ -1,12 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;section=header&amp;reversal=false&amp;fontSize=70&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=50&amp;animation=scaleIn&amp;theme=default" width="100%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;section=header&amp;color=0:9ABDE8,100:BCA9E9" width="100%" alt="">
 </p>
 
 # João Guilherme
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RsbTF4bzNjZWQ4cmZmbWd0YmhsZmZ0YTM3bGNtMWIwb2k3dXNlZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oJjxexthHrPbi/giphy.gif" height="150" alt="">
-</p>
+<table>
+  <tr>
+    <td valign="middle">
+      <p>Hi! I'm João, a Brazilian Software Development student passionate about technology, programming, and robotics.</p>
+      <p>I enjoy exploring new technologies, building projects, and learning about software development, artificial intelligence, and embedded systems. I'm always looking for new challenges and opportunities to improve my skills and grow as a developer.</p>
+    </td>
+    <td align="center" valign="middle" width="180">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RsbTF4bzNjZWQ4cmZmbWd0YmhsZmZ0YTM3bGNtMWIwb2k3dXNlZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oJjxexthHrPbi/giphy.gif" height="150" alt="">
+    </td>
+  </tr>
+</table>
 
 ## Tecnologias
 
