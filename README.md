@@ -28,7 +28,7 @@ I enjoy exploring new technologies, building projects, and learning about softwa
 ## Estatísticas no GitHub
 
 <p>
-    <img src="https://raw.githubusercontent.com/JoaogDi4s/JoaogDi4s/stats-output/stats.svg" width="50%" alt="Estatísticas de João no GitHub"><img src="https://raw.githubusercontent.com/JoaogDi4s/JoaogDi4s/languages-output/languages.svg" width="50%" alt="Linguagens mais usadas nos repositórios">
+    <img src="https://raw.githubusercontent.com/JoaogDi4s/JoaogDi4s/stats-output/stats.svg" width="59.34%" alt="Estatísticas de João no GitHub"><img src="https://raw.githubusercontent.com/JoaogDi4s/JoaogDi4s/languages-output/languages.svg" width="40.66%" alt="Linguagens mais usadas nos repositórios">
 </p>
 
 ## Contribuições
